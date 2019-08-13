@@ -1,0 +1,3 @@
+Data is being scapped from Yahoo Finance.
+
+https://help.yahoo.com/kb/SLN2311.html
